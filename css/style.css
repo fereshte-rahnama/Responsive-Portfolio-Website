@@ -137,7 +137,6 @@ nav ul li a:hover{
 .about-items-right h5{
     color: var(--secondaryColor);
     font-size: 16px;
-    background-color: var(--primaryColor);
     display: flex;
     width: 110px;
     height: 30px;
@@ -145,13 +144,6 @@ nav ul li a:hover{
     justify-content: center;
     border-radius: 10px;
     margin-bottom: 10px;
-}
-.about-items-right h3{
-    color: var(--txtColor);
-    font-size: 28px;
-}
-.about-items-right h3 span{
-    color: var(--secondaryColor);
 }
 .about-items-right p{
     margin-top: 20px;
@@ -188,7 +180,7 @@ nav ul li a:hover{
 }
 .skills-items{
     display: grid;
-    grid-template-columns: repeat(6,1fr);
+    grid-template-columns: repeat(5,1fr);
     gap: 20px;
 }
 .skills-items-cards{
@@ -252,7 +244,7 @@ nav ul li a:hover{
 .project-cards p{
     padding: 0 15px;
     color: var(--txtColor);
-    min-height: 50px;
+    min-height: 80px;
 }
 .project-cards a{
     padding: 0 15px;
