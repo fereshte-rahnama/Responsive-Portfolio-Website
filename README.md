@@ -1,113 +1,59 @@
 # Responsive Portfolio Website
 
-A simple and responsive portfolio website created as a **practice project using HTML5 and CSS3**.
+A modern and responsive portfolio website template created as a **frontend practice project**.
 
-🔗 **Live Demo:**
-https://fereshte-rahnama.github.io/Responsive-Portfolio-Website/
+This project was built to practice semantic HTML, CSS layout techniques, responsive design, and modern UI development. It is a template/demo project and is **not a personal portfolio**.
 
----
+## Live Demo
 
-## 📌 About The Project
+[View Live Demo](YOUR-LIVE-DEMO-LINK)
 
-This project is a sample portfolio website created to practice and demonstrate how to build a responsive website using **HTML and CSS**.
+## Technologies Used
 
-It is **not my personal portfolio**. The content and sections are used as sample content for practicing website structure, layout, styling, and responsive design.
+* HTML5
+* CSS3
+* Flexbox
+* CSS Grid
+* Responsive Design
+* Media Queries
+* Google Fonts
 
-The main goal of this project was to practice:
+## Features
 
-* Structuring a website with HTML
-* Styling layouts with CSS
-* Creating responsive designs
-* Using CSS media queries
-* Building navigation and different website sections
-* Creating a clean and modern user interface
-
----
-
-## ✨ Features
-
-* Responsive layout
-* Clean and simple design
-* Navigation menu
+* Responsive layout for desktop, tablet, and mobile
+* Modern portfolio-style user interface
+* Responsive navigation menu
 * Hero section
 * About section
 * Skills section
-* Projects section
-* Contact section
-* Responsive design for different screen sizes
-* Mobile, tablet, and desktop layouts
+* Projects showcase
+* Responsive project cards
+* Clean and reusable CSS structure
+* Mobile-friendly design
 
----
+## Project Purpose
 
-## 🛠️ Technologies Used
+The main purpose of this project was to practice:
 
-* **HTML5**
-* **CSS3**
+* Building responsive layouts with HTML and CSS
+* Using Flexbox and CSS Grid
+* Creating reusable UI sections
+* Working with responsive breakpoints
+* Improving visual design and spacing
+* Structuring a multi-section frontend website
 
-No JavaScript or external frameworks were used in this project.
+## Project Structure
 
----
-
-## 📱 Responsive Design
-
-The website is designed to adapt to different screen sizes using CSS media queries.
-
-It supports:
-
-* 💻 Desktop
-* 📱 Tablet
-* 📱 Mobile
-
----
-
-## 🚀 Getting Started
-
-To run this project locally:
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/fereshte-rahnama/Responsive-Portfolio-Website.git
+```text
+Responsive-Portfolio-Website/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── images/
+└── README.md
 ```
 
-### 2. Open the project
+## Note
 
-Open the project folder in **VS Code**.
-
-### 3. Run the website
-
-Open `index.html` in your browser or use the **Live Server** extension in VS Code.
-
----
-
-## 🌐 Live Demo
-
-You can view the project here:
-
-https://fereshte-rahnama.github.io/Responsive-Portfolio-Website/
-
----
-
-## 📸 Preview
-
-You can add screenshots of the project here.
-
-```markdown
-![Website Preview](./assets/images/preview.png)
-```
-
----
-
-## 🎯 Purpose
-
-This project was created for **learning and practicing HTML and CSS**, with a focus on responsive web design.
-
-It is intended as a demonstration of frontend layout and styling techniques rather than a representation of a personal professional portfolio.
-
----
-
-## 👩‍💻 Author
-
-**Fereshteh Rahnama**
-
-This project was created as part of my frontend development practice.
+This is a **practice project / portfolio template** created for frontend development practice. The content and information shown in the template are sample content and do not represent a personal professional portfolio.
